@@ -29,3 +29,7 @@ storage/bc.php
 storage/pro.php
 storage/installed
 public/themes/*/dist
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+storage/logs/
