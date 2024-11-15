@@ -1,0 +1,11 @@
+{
+    "/module/booking/css/checkout.css": "/module/booking/css/checkout.css",
+    "/module/flight/css/flight.css": "/module/flight/css/flight.css",
+    "/module/hotel/css/hotel.css": "/module/hotel/css/hotel.css",
+    "/module/space/css/space.css": "/module/space/css/space.css",
+    "/css/user.css": "/css/user.css",
+    "/css/app.css": "/css/app.css",
+    "/css/rtl.css": "/css/rtl.css",
+    "/dist/frontend/js/gotrip.js": "/dist/frontend/js/gotrip.js",
+    "/dist/frontend/js/filter-map.js": "/dist/frontend/js/filter-map.js"
+}
