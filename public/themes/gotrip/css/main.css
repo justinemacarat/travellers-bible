@@ -5464,10 +5464,10 @@ div[data-slider] > input[type=range]::-ms-tooltip {
     transform: translateY(150%) scale(1);
   }
   50% {
-    transform: translateY(0%) scale(1.2) rotate(20deg);
+    transform: translateY(0%) scale(1.2) ;
   }
   100% {
-    transform: translateY(-150%) rotate(-20deg);
+    transform: translateY(-150%);
   }
 }
 
@@ -5476,10 +5476,10 @@ div[data-slider] > input[type=range]::-ms-tooltip {
     transform: translateY(150%) scale(1);
   }
   50% {
-    transform: translateY(0%) scale(1.2) rotate(20deg);
+    transform: translateY(0%) scale(1.2) ;
   }
   100% {
-    transform: translateY(-150%) rotate(-20deg);
+    transform: translateY(-150%) ;
   }
 }
 
